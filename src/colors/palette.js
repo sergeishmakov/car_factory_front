@@ -1,0 +1,18 @@
+export default {
+  white: '#FFF',
+  electricViolet: '#9D00FF',
+  green: '#00B454',
+  red: '#FC0006',
+  orange: '#f80',
+  black: '#000',
+  'blue-200': '#5AB4E8',
+  'grey-100': '#F5F7FA',
+  'grey-200': '#E9ECF2',
+  'grey-300': '#D3D7DE',
+  'grey-400': '#B9BEC9',
+  'grey-500': '#9CA2AD',
+  'grey-600': '#737780',
+  'grey-700': '#54575E',
+  'grey-800': '#37393E',
+  'grey-900': '#202226',
+};
